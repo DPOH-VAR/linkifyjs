@@ -1,4 +1,4 @@
-const tokenize = require("../dist/js/bundle").default;
+const tokenize = require("../dist/url-tokenizer").default;
 
 
 module.exports = {
